@@ -1,0 +1,5 @@
+variables: asignarle un valor a algo 
+Strings: Es un bloque de texto 
+Funciones: Sirve para agrupar codigo que vamos a utilizar muchas veces
+Declaraciones if: Sirve para verificar que nuestra funcion sea verdadera
+Valores booleanos: dos opciones posibles, verdadero o falso.
