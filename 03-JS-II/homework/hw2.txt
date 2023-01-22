@@ -1,0 +1,2 @@
+for: Se le denomina bucle, y sirve para dar instrucciones para encontrar el valor o los valores deseados bajo cierto parpametros. Se divide en 3 partes, el primero es la asignacipon del valor inicial a la variable, el segundo es el condicional que define hasta donde se va a ejecutar esta acción y por último se define como será los pasos.
+&&: Es un operador lógico que para ser verdadero, exije que todas las condiciones sean verdaderas.
