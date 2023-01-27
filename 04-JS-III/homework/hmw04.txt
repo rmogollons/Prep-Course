@@ -1,0 +1,1 @@
+array = Traduce arreglo, y basicamente es un lugar donde se pueden almacenar muchos datos de diferentes tipos, como números, estrings, booleanos, funciones, etc.
