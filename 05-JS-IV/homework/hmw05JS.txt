@@ -1,0 +1,5 @@
+objetos : agrupación de elementos compuestos que se componen de una propiedad con un valor asignado.
+Propiedades: describen un valor una funcion
+Métodos: son las funciones dentro de los objetos
+Bucles for ... in: se utilizan para iterar dentro un objeto
+Notación de puntos vs notación de corchetes: son lo mismo cuando se conoce la propiedad, cuando no se conoce se utilizan con corchetes.
